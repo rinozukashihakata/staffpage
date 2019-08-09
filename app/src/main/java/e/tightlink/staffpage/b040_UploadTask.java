@@ -40,7 +40,7 @@ public class b040_UploadTask extends AsyncTask<String, Void, String> {
         ////////////////////////////////////////////////////////////////////////////////////////////
 
         // 使用するサーバーのURLに合わせる
-        String urlSt = "https://android.knilthgit.work/insert.php";
+        String urlSt = "xx";
 
         HttpURLConnection httpConn = null;
         String result = null;
