@@ -198,23 +198,23 @@ public class b001_ChatActivity extends AppCompatActivity {
 
     private void telnum_check() {
         switch (telnumber) {
-            case "354631091939987":
+            case "xx":
                 telname = "おとうさん";
                 tablename = "takahashi";
                 break;
-            case "09098003855":
+            case "xx":
                 telname = "おかあさん";
                 tablename = "takahashi";
                 break;
-            case "356110070624033":
+            case "xx":
                 telname = "永奈";
                 tablename = "takahashi";
                 break;
-            case "356110070397291":
+            case "xx":
                 telname = "恒太";
                 tablename = "takahashi";
                 break;
-            case "359657080365541":
+            case "xx":
                 telname = "高橋";
                 tablename = "company";
                 break;
