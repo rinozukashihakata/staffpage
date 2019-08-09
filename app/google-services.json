@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1356435636",
+    "firebase_url": "https://staffpage-960c7.firebaseio.com",
+    "project_id": "staffpage-960c7",
+    "storage_bucket": "staffpage-960c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1356435636:android:59a8d82ae861bc59",
+        "android_client_info": {
+          "package_name": "e.tightlink.staffpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1356435636-f463bbdouh5e7gcqljfdfkq08jl9jrnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.tightlink.staffpage",
+            "certificate_hash": "d27c7501fffbc24a28447c29b82392a580ce8dd9"
+          }
+        },
+        {
+          "client_id": "1356435636-l9htgce56feap9i23f8q6r650lmeq4np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-PRYcbADqNEY6KvCH8vrDVws-LojSM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1356435636-l9htgce56feap9i23f8q6r650lmeq4np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

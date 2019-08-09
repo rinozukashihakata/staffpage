@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tightlink_Message</string>
+    <string name="hint">ここにメッセージを入力。</string>
+    <string name="post">送信</string>
+    <string name="get">受信</string>
+    <string name="browser">browser</string>
+</resources>
